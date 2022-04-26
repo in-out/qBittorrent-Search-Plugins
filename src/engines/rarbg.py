@@ -1,4 +1,4 @@
-# VERSION: 1.1
+# VERSION: 9.9
 # AUTHORS: LightDestory (https://github.com/LightDestory)
 
 import re
