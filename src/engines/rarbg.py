@@ -10,7 +10,7 @@ from novaprinter import prettyPrinter
 
 class rarbg(object):
     url = 'http://www.rarbg.is/'
-    name = 'RARBGEX'
+    name = 'RARBG'
     """ 
     ***TLDR; It is safer to force an 'all' research***
         RARBG's categories are very specific
